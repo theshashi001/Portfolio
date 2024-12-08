@@ -32,7 +32,7 @@ const Navbar = () => {
             href={`/`}
             passHref
           >
-            <h1 className="nav-title">Joshua Brigati</h1>
+            <h1 className="nav-title">Shashi Tiwari</h1>
           </Link>
         </div>
           <div className="right-side">

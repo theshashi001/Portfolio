@@ -6,20 +6,20 @@ const IAm = () => {
     <section className='intro-section'>
       <article className='intro-text'>
         <p>Hello, I’m</p>
-        <h1>JOSHUA BRIGATI</h1>
-        <p className="adjust">FRONT-END SOFTWARE ENGINEER</p>
+        <h1>SHASHI TIWARI</h1>
+        <p className="adjust">FULLSTACK - SOFTWARE ENGINEER</p>
       </article>
       <div className='CTAs'>
         <a className='download-resume' href="/JoshuaBrigati-Resume.pdf">Checkout Resume</a>
         <div className='socials'>
-          <a href={"https://www.linkedin.com/in/joshuabrigati/"} target="_blank" rel="noopener noreferrer">
+          <a href={"https://www.linkedin.com/in/shashi-tiwari-ba2a58331/"} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} size="2x" />
           </a>
-          <a href={"https://github.com/JoshuaBrigati"} target="_blank" rel="noopener noreferrer">
+          <a href={"https://github.com/theshashi001"} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" />
           </a>
-          <a href={"https://codepen.io/JoshuaBriagti"} target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faCodepen} size="2x" />
+          <a href={"https://app.daily.dev/shashitiwari"} target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={fadaily.dev} size="2x" />
           </a>
         </div>
       </div>
