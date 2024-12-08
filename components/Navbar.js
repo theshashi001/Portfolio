@@ -39,7 +39,7 @@ const Navbar = () => {
             <ReactScrollLink activeClass="active" to="main" spy={true} smooth={true} offset={-125}>Main</ReactScrollLink>
             <ReactScrollLink to="about" spy={true} smooth={true} offset={-125}>About</ReactScrollLink>
             <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125}>Projects</ReactScrollLink>\
-            <a href="/JoshuaBrigati-Resume.pdf" className="resume-link">Resume</a>
+            <a href="/ShashiTiwari-Resume.pdf" className="resume-link">Resume</a>
         </div>
       </header>
       <div className="mobile-header">
