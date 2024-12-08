@@ -62,7 +62,7 @@ const Navbar = () => {
                   <ReactScrollLink to="projects" spy={true} smooth={true} offset={-125} onClick={() => handleHamburgerClick()}>Projects</ReactScrollLink>
                 </li>
               </ol>
-              <a href="/JoshuaBrigati-Resume.pdf" className="resume-link">Resume</a>
+              <a href="/ShashiTiwari-Resume.pdf" className="resume-link">Resume</a>
             </nav>
           </aside>
         </div>
