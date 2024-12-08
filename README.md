@@ -1,3 +1,3 @@
 ## My Protfolio
 
-https://joshuabrigati.com
+https://shashitiwari.com
