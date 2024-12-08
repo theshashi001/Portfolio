@@ -26,7 +26,7 @@ const Projects = () => {
             <li>Next.JS</li>
             <li>Javascript</li>
             <li>NEST.js</li>
-            <li>NodeJS</li>
+            <li>NO</li>
           </ul>
           <div className="project-links">
             <a href="https://discord.gg/m9gqG6CMjM" rel="noopener noreferrer" target="_blank">
@@ -52,8 +52,8 @@ const Projects = () => {
             target="_blank"
           >
             <Image
-              src="/SimplePlanets.png"
-              alt="SimplePlanets.com Landing Section"
+              src="/SimplePortfolio.png"
+              alt="SimplePortfolio.com Landing Section"
               width={700}
               height={438}
             />
