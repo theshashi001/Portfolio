@@ -10,7 +10,7 @@ const IAm = () => {
         <p className="adjust">FULLSTACK - SOFTWARE ENGINEER</p>
       </article>
       <div className='CTAs'>
-        <a className='download-resume' href="/JoshuaBrigati-Resume.pdf">Checkout Resume</a>
+        <a className='download-resume' href="/ShashiTiwari-Resume.pdf">Checkout Resume</a>
         <div className='socials'>
           <a href={"https://www.linkedin.com/in/shashi-tiwari-ba2a58331/"} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} size="2x" />
