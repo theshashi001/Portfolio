@@ -13,7 +13,7 @@ const Projects = () => {
           </p>
           <h3 className="project-title">
             <a href="https://simpleplanets.com/" rel="noopener noreferrer" target="_blank">
-              SimplePlanets
+              SimplePortfolio
             </a>
           </h3>
           <div className="project-description">
@@ -24,10 +24,9 @@ const Projects = () => {
           </div>
           <ul className="project-tech-list">
             <li>Next.JS</li>
-            <li>Solidity</li>
             <li>Javascript</li>
-            <li>ethers.js</li>
-            <li>Adobe Illustrator</li>
+            <li>NEST.js</li>
+            <li>NodeJS</li>
           </ul>
           <div className="project-links">
             <a href="https://discord.gg/m9gqG6CMjM" rel="noopener noreferrer" target="_blank">
