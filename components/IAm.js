@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedin, faGithub, faDev } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin, faGithub} from '@fortawesome/free-brands-svg-icons'
 
 const IAm = () => {
   return (
@@ -17,9 +17,6 @@ const IAm = () => {
           </a>
           <a href={"https://github.com/theshashi001"} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" />
-          </a>
-          <a href={"https://app.daily.dev/shashitiwari"} target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faDev} size="2x" />
           </a>
         </div>
       </div>
