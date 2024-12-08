@@ -21,7 +21,7 @@ export default function Home() {
       </main>
       <div orientation="right" className="email-container">
         <div className="email-display">
-          <a href="mailto:sht2874510@gmail.com@gmail.com">brigati.joshua@gmail.com</a>
+          <a href="mailto:sht2874510@gmail.com@gmail.com">sht287@gmail.com</a>
         </div>
       </div>
       <Footer />

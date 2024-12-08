@@ -9,9 +9,9 @@ const About = () => {
           <div className="cavalier-content">
             <h1>Past Experience</h1>
             <p>
-              I have over <bold>4</bold> years experience as a <bold>Software Engineer</bold>. My first job was as a <bold>Software Engineer Intern</bold> at a Blockchain company where I created multiple Full-Stack applications to help internal monitoring.
-              Next I was a <bold>Junior Front-End Developer</bold> where I developed software for Staples associates.
-              Currently I am a <bold>Full-Stack Software Engineer</bold> at a startup where I have been for the last <bold>2</bold> years.
+              I have over <bold>3</bold> months experience as a <bold>FULLSTACK DEVELOPER</bold>. My first internship was as a <bold>Software Engineer Intern</bold> at a  EDUNET where I created multiple Full-Stack applications to help internal monitoring.
+              Next I was a <bold>Junior Front-End and Back-end Developer</bold> where I developed software for EDUNET.
+              Currently I am a <bold>Full-Stack Software Engineer</bold> ownself where I have been for the last <bold>1</bold> years.
             </p>
           </div>
         </article>
@@ -28,10 +28,10 @@ const About = () => {
         </article>
         <article className='bottom-left'>
           <div className="cavalier-content">
-            <h1>Web3</h1>
+            <h1>Web</h1>
             <p>
-              I have very much enjoyed working on <bold>Web3</bold> projects. I recently completed an NFT project that will have greater detail in the Projects section below.
-              I have knowledge of <bold>Solidity</bold>, <bold>web3.js</bold>, <bold>Ethers.js</bold>, <bold>HardHat</bold>, and can create a full DApp connected to deployed and local Smart Contracts.
+              I have very much enjoyed working on <bold>Web</bold> projects. I recently completed an portfolio project that will have greater detail in the Projects section below.
+              I have knowledge of <bold>ReactJS</bold>, <bold>NextJS</bold>, <bold>express.js</bold>, <bold>MongoDB</bold>, and can create a full DApp connected to deployed .
             </p>
           </div>
         </article>

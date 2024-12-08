@@ -21,8 +21,8 @@ const IAm = () => {
         </div>
       </div>
       <article className='some-details'>
-        <p>Skilled at bringing designs to life with more than 4 years experience.</p>
-        <p>Constantly learning and expading my knowledge. Currently in the Web3 space.</p>
+        <p>Skilled at bringing designs to life with more than 3 months experience.</p>
+        <p>Constantly learning and expading my knowledge. Currently in the Web space.</p>
       </article>
     </section>
   )
