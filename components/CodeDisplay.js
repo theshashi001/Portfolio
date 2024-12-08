@@ -20,13 +20,13 @@ const CodeDisplay = () => {
         5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; useEffect(() =&gt; &#123;
       </pre>
       <pre>
-        6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setName(&quot;<b>Joshua Brigati</b>&quot;);
+        6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setName(&quot;<b>Shashi Tiwari</b>&quot;);
       </pre>
       <pre>
-        7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setRole(&quot;<b>Front-End Software Engineer</b>&quot;);
+        7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setRole(&quot;<b>Full-Stcak Software Engineer</b>&quot;);
       </pre>
       <pre>
-        8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setInterest(&quot;<b>Web3, Defi, Crypto, F1</b>&quot;);
+        8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setInterest(&quot;<b>Web3, web, AI, Crypto, F1</b>&quot;);
       </pre>
       <pre>
         9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#125;, []);
